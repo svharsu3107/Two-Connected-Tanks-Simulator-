@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.intdata
+*.realdata
+*.prof*
+*.c
+*.o
+*.h
+*.makefile
+*.libs
+*.bat
