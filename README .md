@@ -7,10 +7,8 @@
 ![OpenModelica](https://img.shields.io/badge/Simulation-OpenModelica-orange)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
 
-> Built for the **FOSSEE (IIT Bombay) OpenModelica screening task**:
-> *"Desktop App for OpenModelica using Python and PyQt."*
 
----
+
 
 ## 📖 Table of Contents
 
@@ -73,7 +71,7 @@ activates.*
 
 ---
 
-## 🏗️ Architecture — why 4 files, not 1
+## 🏗️ Architecture — why 4 files, not 1 ?
 
 | File | Responsibility | Depends on |
 |---|---|---|
@@ -91,7 +89,7 @@ testable — which is exactly how the input-validation logic and the
 
 ---
 
-## 🚀 Getting started
+## 🚀 Getting started...
 
 **Requirements:** Windows 10/11, Python 3.6+
 
@@ -109,7 +107,7 @@ Then, in the app:
 
 ---
 
-## 🔧 Rebuilding the model yourself (optional)
+## 🔧 Rebuilding the model yourself
 
 The compiled executable and its runtime dependencies are already in
 this repo, but if you want to regenerate it from the Modelica source:
