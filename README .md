@@ -63,7 +63,7 @@ window — which is exactly what broke the model originally (see
 
 ## 🖥️ See it in action
 
-![TwoConnectedTanks Simulator — a completed run showing the tank water level plot](docs/screenshot.png)
+![TwoConnectedTanks Simulator — a completed run showing the tank water level plot](screenshot.png)
 
 *A completed run: `startTime=0`, `stopTime=4` — Tank 1 fills steadily
 while Tank 2 stays flat, since no flow reaches it before the connector
